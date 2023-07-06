@@ -26,6 +26,7 @@ function Navbar() {
                     <Link to={'/signup'}>Signup</Link>
                 </div>
             )}
+            <hr />
         </nav>
     )
 }
